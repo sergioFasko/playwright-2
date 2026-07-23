@@ -1,0 +1,23 @@
+{
+  "name": "playwright-2",
+  "version": "1.0.0",
+  "description": "Practicas",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioFasko/playwright-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sergioFasko/playwright-2/issues"
+  },
+  "homepage": "https://github.com/sergioFasko/playwright-2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1"
+  }
+}
